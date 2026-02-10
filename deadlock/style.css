@@ -1,1 +1,14 @@
+body {
+  background: #05010a;
+  color: #0ff;
+  text-align: center;
+  font-family: Arial, sans-serif;
+}
+
+canvas {
+  background: linear-gradient(90deg, #000, #12002b);
+  border: 3px solid #ff00ff;
+  display: block;
+  margin: 20px auto;
+}
 
